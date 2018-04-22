@@ -1,5 +1,5 @@
 (module RF4IN1 (layer F.Cu) (tedit 5A034CB2)
-  (fp_text reference REF** (at -3 -13) (layer F.SilkS)
+  (fp_text reference U2 (at -3 -13) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value RF4IN1 (at 3 -13) (layer F.Fab)

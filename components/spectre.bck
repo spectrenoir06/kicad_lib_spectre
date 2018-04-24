@@ -10,4 +10,261 @@ D power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP 6N136
+D High Speed Optocoupler, TTL Compatible, CTR 24%, DIP8
+K High Speed Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/6N135_6N136_en_datasheet_071001.pdf
+$ENDCMP
+#
+$CMP 6N139
+D High Speed Optocoupler, TTL Compatible, CTR 18%, DIP8
+K High Speed Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/6N135_6N136_en_datasheet_071001.pdf
+$ENDCMP
+#
+$CMP AP131-18
+D 300mA low dropout linear regulator, shutdown pin, 1.8V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-20
+D 300mA low dropout linear regulator, shutdown pin, 2.0V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-25
+D 300mA low dropout linear regulator, shutdown pin, 2.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-28
+D 300mA low dropout linear regulator, shutdown pin, 2.8V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-29
+D 300mA low dropout linear regulator, shutdown pin, 2.9V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-30
+D 300mA low dropout linear regulator, shutdown pin, 3.0V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-33
+D 300mA low dropout linear regulator, shutdown pin, 3.3V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP131-35
+D 300mA low dropout linear regulator, shutdown pin, 3.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP AP2112-3.3
+D 300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5 package
+K linear regulator ldo fixed positive
+F http://www.diodes.com/_files/datasheets/AP131.pdf
+$ENDCMP
+#
+$CMP Dual-Audio-Jack-3_3Switches
+D 3-pin (audio) jack receptable (stereo/TRS connector) with 3 switching contacts
+K audio jack receptable stereo headphones connector
+F ~
+$ENDCMP
+#
+$CMP MIC5205-2.5
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.7
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.7V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.8
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.85
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.85V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-2.9
+D 150mA Low Dropout Voltage Regulator, Fixed Output 2.9V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.0
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.1
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.1V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.2
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.2V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.3
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.6
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.6V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-3.8
+D 150mA Low Dropout Voltage Regulator, Fixed Output 3.8V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-4.0
+D 150mA Low Dropout Voltage Regulator, Fixed Output 4.0V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5205-5.0
+D 150mA Low Dropout Voltage Regulator, Fixed Output 5.0V, SOT-23-5
+K 150mA Low-Noise LDO Linear Regulator Fixed Positive
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5205.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.5
+D 500mA LDO fixed output voltage 2.5V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.6
+D 500mA LDO fixed output voltage 2.6V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.7
+D 500mA LDO fixed output voltage 2.7V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.8
+D 500mA LDO fixed output voltage 2.8V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-2.9
+D 500mA LDO fixed output voltage 2.9V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.0
+D 500mA LDO fixed output voltage 3.0V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.1
+D 500mA LDO fixed output voltage 3.1V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.3
+D 500mA LDO fixed output voltage 3.3V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-3.6
+D 500mA LDO fixed output voltage 3.6V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP MIC5219-5.0
+D 500mA LDO fixed output voltage 5.0V ultra-low-noise, SOT-23-5
+K linear low dropout Regulator fixed ultra-low-noise
+F http://ww1.microchip.com/downloads/en/devicedoc/mic5219.pdf
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-2
+D 500mA Low drop-out regulator, Fixed Output 1.2V, SOT-23-5
+K REGULATOR LDO 1.2V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-5
+D 500mA Low drop-out regulator, Fixed Output 1.5V, SOT-23-5
+K REGULATOR LDO 1.5V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-8
+D 500mA Low drop-out regulator, Fixed Output 1.8V, SOT-23-5
+K REGULATOR LDO 1.8V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-2-5
+D 500mA Low drop-out regulator, Fixed Output 2.5V, SOT-23-5
+K REGULATOR LDO 2.5V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-3-0
+D 500mA Low drop-out regulator, Fixed Output 3.0V, SOT-23-5
+K REGULATOR LDO 3.0V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-3-3
+D 500mA Low drop-out regulator, Fixed Output 3.3V, SOT-23-5
+K REGULATOR LDO 3.3V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP SPX3819M5-L-5-0
+D 500mA Low drop-out regulator, Fixed Output 5.0V, SOT-23-5
+K REGULATOR LDO 5.0V 
+F https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819 
+$ENDCMP
+#
+$CMP Vbat
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 #End Doc Library

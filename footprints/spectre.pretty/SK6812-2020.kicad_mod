@@ -1,0 +1,25 @@
+(footprint "SK6812-2020" (version 20201116) (generator pcbnew) (layer "F.Cu")
+  (tedit 5FD07019)
+  (fp_text reference "REF**" (at 0.4 -1.8 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 10978b97-e80f-400c-ac34-7840ee9a0a00)
+  )
+  (fp_text value "SK6812-2020" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp eef9138d-5357-495e-8cbb-f3882081feca)
+  )
+  (fp_text user "${REF}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp dd0512e5-3f74-4292-9304-646705c4aa96)
+  )
+  (fp_rect (start -1.1 -1) (end 1.1 1) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 1432597b-384a-4eda-99d4-3889c9e88633))
+  (pad "1" smd rect (at 0.65 0.6) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 52fdf7d8-fe3a-4616-8cab-e1e15fc272c8))
+  (pad "2" smd rect (at 0.65 -0.6) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18d094bb-ac96-438d-91dd-24b83027b66b))
+  (pad "3" smd rect (at -0.65 -0.6) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b88d568d-7062-4b46-a0af-f46f98754c2b))
+  (pad "4" smd rect (at -0.65 0.6) (size 0.8 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb547fec-40b0-411e-8f10-1464711fafbd))
+  (model "/home/spectre/dev/elec/kicad_projects/kicadlibs/kicad_lib_spectre/3d/APA102-2020 MODEL v15.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

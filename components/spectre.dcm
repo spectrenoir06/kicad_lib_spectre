@@ -160,6 +160,12 @@ K AVR 8bit Microcontroller MegaAVR
 F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
 $ENDCMP
 #
+$CMP Crystal_GND24_Small
+D Four pin crystal, GND on pins 2 and 4, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP Dual-Audio-Jack-3_3Switches
 D 3-pin (audio) jack receptable (stereo/TRS connector) with 3 switching contacts
 K audio jack receptable stereo headphones connector
